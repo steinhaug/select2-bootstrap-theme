@@ -10,8 +10,7 @@
   ],
   "homepage": "https://select2.github.io/select2-bootstrap-theme",
   "main": [
-    "src/select2-bootstrap.scss",
-    "src/select2-bootstrap.less"
+    "dist/select2-bootstrap.min.css"
   ],
   "license": "MIT",
   "ignore": [
